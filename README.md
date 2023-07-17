@@ -73,7 +73,7 @@ As an example, we conducted a test on AAPL using an hourly time frame with a pro
 - Additionally, we are exploring the incorporation of additional technical indicators such as Fibonacci retracements, Keltner channel bands, and moving averages to further enhance the bot's trading capabilities.
 - During our analysis, we discovered that there is a point of diminishing returns, and we are dedicated to determining the optimal trading parameters to achieve the best possible results.
 - Furthermore, we have concluded that this trading bot has the potential to be utilized in various markets, offering flexibility and adaptability.
-- It's important to note that certain costs and expenses, including taxes, fees, and service provider fees, have not been fully accounted for in our evaluation. These factors should be considered when implementing the bot in live trading.
+- It's important to note that certain costs and expenses, including tax fees, and service provider fees, have not been fully accounted for in our evaluation. These factors should be considered when implementing the bot in live trading.
 - Overall, we are excited about the potential of this trading bot and remain committed to continuous monitoring, optimization, and exploring further opportunities for improvement.
 
 
