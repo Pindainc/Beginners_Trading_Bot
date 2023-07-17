@@ -54,16 +54,30 @@ We reviewed our coding logic by looking at the market data, and using machine le
 ---
 #### Potential Upgrades
 - An objective Optimizer
-  - 
+
+![image_720](https://github.com/Pindainc/Beginners_Trading_Bot/assets/100908888/3e652b8e-62f5-4bb8-9775-11ed1b752f8b)
+
 
 ---
 ### Conclusion
 ---
-
 #### Libraries Used
+
+- Scikit Learn
+  - Support Vector Machines
+  - Random Forest Classifier
+  - Decision Tree Classifier
+- Plotly
+- Matplotlib
+- Numpy
+- Pandas
+- Alpaca Trade API
 ---
+
 #### Contributors 
 ---
-Pinda Johnson
+Pinda Johnson 
+
 Dylan Brown
+
 Branzil Engracia
