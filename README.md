@@ -53,7 +53,9 @@ We reviewed our coding logic by looking at the market data, and using machine le
 
 ---
 #### Potential Upgrades
-- An objective Optimizer
+- A Profit Optimizer Experiment
+
+**This is a sample graphic** for future experiments to adjust  to optimize profits
 
 ![image_720](https://github.com/Pindainc/Beginners_Trading_Bot/assets/100908888/3e652b8e-62f5-4bb8-9775-11ed1b752f8b)
 
