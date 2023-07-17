@@ -58,8 +58,25 @@ We reviewed our coding logic by looking at the market data, and using machine le
 ![image_720](https://github.com/Pindainc/Beginners_Trading_Bot/assets/100908888/3e652b8e-62f5-4bb8-9775-11ed1b752f8b)
 
 
+As an example, we conducted a test on AAPL using an hourly time frame with a profit objective of 0.5%. This test resulted in a profit of $4.09. However, when we shortened the time frame and adjusted the profit objective to 1% on a minute-by-minute basis, we observed a significant increase in profit, reaching $13.67. It is worth noting that when we further increased the profit objective to 2%, the overall profit decreased. This led us to explore multiple variations to identify the optimal settings for maximizing profit potential. By continuously experimenting with different parameters, we strive to ensure that we generate the highest possible profit.
+
 ---
 ### Conclusion
+
+- In conclusion, the trading bot has demonstrated success in backtesting, and therefore, we have decided to deploy it to a live trading account. To ensure its ongoing performance, the bot will be closely monitored on a regular basis.
+- As part of future enhancements, we plan to launch the bot on the AWS platform, which will provide scalability and reliability.
+- Additionally, we are exploring the incorporation of additional technical indicators such as Fibonacci retracements, Keltner channel bands, and moving averages to further enhance the bot's trading capabilities.
+- During our analysis, we discovered that there is a point of diminishing returns, and we are dedicated to determining the optimal trading parameters to achieve the best possible results.
+- Furthermore, we have concluded that this trading bot has the potential to be utilized in various markets, offering flexibility and adaptability.
+- It's important to note that certain costs and expenses, including taxes, fees, and service provider fees, have not been fully accounted for in our evaluation. These factors should be considered when implementing the bot in live trading.
+- Overall, we are excited about the potential of this trading bot and remain committed to continuous monitoring, optimization, and exploring further opportunities for improvement.
+
+
+#### Charts:
+![counter_sell_trend_1](https://github.com/Pindainc/Beginners_Trading_Bot/assets/100908888/7dcfbc98-29f2-4320-b8ba-a0aa5f90a3e9)
+![counter_trend_buy](https://github.com/Pindainc/Beginners_Trading_Bot/assets/100908888/25c61142-8ec7-460e-9648-a6ac632af4f3)
+
+
 ---
 #### Libraries Used
 
