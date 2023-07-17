@@ -1,7 +1,11 @@
 # Beginners Trading Bot
 
 ### Motivation & Hypothesis
-This backend project is intended to create a trading bot that implements different strategies taught by the author. While one learns different trading strategies, the knowledge can be passed on to the bot who can run them during market hours, whenever applicable. As you teach the bot more, its capabilities and efficiency increases with it. Emphasis on profitability and scalability is essential, as we intend to produce a reliable money making machine.
+This backend project is focused on developing a trading bot that incorporates a variety of strategies. By transferring acquired knowledge and strategies to the bot, it becomes capable of executing trades during market hours. as we add to the strategy taught, the bot's capabilities and efficiency continue to improve. The primary objective is to create a reliable and profitable trading tool that can swiftly respond to market conditions and capitalize on lucrative trading opportunities.
+
+
+Additionally, our beginner trading bot possesses the ability to analyze vast quantities of data and generate real-time trading signals. This feature enhances decision-making speed, enabling traders to make more prompt and informed choices.
+
 ---
 ### Trading Strategies Used
 #### Strategy 1: Overview
@@ -21,7 +25,6 @@ Our First strategy searches for the following 6 price patterns, which signals a 
 
 
 We also implemented Initial Stop Losses (ISL)s to maximize profits and protect ourselves from unexpected changes in the market.
-explain?
 
 ---
 ### Strategy 1: Test Findings 
@@ -55,12 +58,12 @@ We reviewed our coding logic by looking at the market data, and using machine le
 #### Potential Upgrades
 - A Profit Optimizer Experiment
 
-**This is a sample graphic** for future experiments to adjust  to optimize profits
+Displayed below is a **sample graphic** that can be utilized for upcoming experiments aimed at optimizing profits.
 
 ![image_720](https://github.com/Pindainc/Beginners_Trading_Bot/assets/100908888/3e652b8e-62f5-4bb8-9775-11ed1b752f8b)
 
 
-As an example, we conducted a test on AAPL using an hourly time frame with a profit objective of 0.5%. This test resulted in a profit of $4.09. However, when we shortened the time frame and adjusted the profit objective to 1% on a minute-by-minute basis, we observed a significant increase in profit, reaching $13.67. It is worth noting that when we further increased the profit objective to 2%, the overall profit decreased. This led us to explore multiple variations to identify the optimal settings for maximizing profit potential. By continuously experimenting with different parameters, we strive to ensure that we generate the highest possible profit.
+As an example, we conducted a test on AAPL using an hourly time frame with a profit objective of 0.5. This test resulted in a profit of $4.09. However, when we shortened the time frame and adjusted the profit objective to 1.0 on a minute-by-minute basis, we observed a significant increase in profit, reaching $13.67. It is worth noting that when we further increased the profit objective to 2.0, the overall profit decreased. This led us to explore multiple variations to identify the optimal settings for maximizing profit potential. By continuously experimenting with different parameters, we strive to ensure that we generate the highest possible profit.
 
 ---
 ### Conclusion
@@ -93,8 +96,7 @@ As an example, we conducted a test on AAPL using an hourly time frame with a pro
 - Alpaca Trade API
 ---
 
-#### Contributors 
----
+#### Contributors: 
 Pinda Johnson 
 
 Dylan Brown
